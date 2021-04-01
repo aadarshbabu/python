@@ -1,9 +1,4 @@
 print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
-print("hello world")
 a= 55
 b= 22
 c=a+b

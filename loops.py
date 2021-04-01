@@ -32,8 +32,6 @@ for i in [11,22,12,3,4,5,3,23,2,4]:
         
 
 
-
-
     #loop in dictonary
 dic= {"aadarsh":111,'raj':333,'suman':"raj","Bool":True,"suman":"sonu"}
 for element in dic:
