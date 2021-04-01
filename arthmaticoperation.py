@@ -6,9 +6,9 @@ var2=555
 
 # #substraction 
 
-# print(var1-var2)
+print(var1-var2)
 
-# print(var1*var2)
+print(var1*var2)
 boolvalue=True
 boolv=False
 
